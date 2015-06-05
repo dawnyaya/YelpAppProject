@@ -92,5 +92,4 @@ public class GetRestaurantsNearby extends HttpServlet {
 			e.printStackTrace();
 		}
 	}
-//change goes here
 }
